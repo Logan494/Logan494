@@ -10,7 +10,7 @@ I specialize in **data exploration** and **analytics**, with a deep-rooted passi
 - 🌱 **Currently Learning:** **Machine learning techniques and tools**
 - 💡 **Skills:** **Data analysis, Python, SQL, Tableau, project management**, and more
 - 📫 **Reach me at:** **jmanthony5961@gmail.com**
-- ⚡ **Fun fact:** My career in **television news** honed my ability to investigate deeply and present findings effectively, skills I now apply to the world of data.
+- ⚡ **Fun fact:** My career in **television news** honed my ability to investigate subjects on a deeper level and present findings effectively, skills I now apply to the world of data.
 
 
 <!---
